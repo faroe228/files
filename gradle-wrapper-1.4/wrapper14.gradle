@@ -1,0 +1,5 @@
+defaultTasks 'wrapper14'
+
+task wrapper14(type: Wrapper) {
+    gradleVersion = '1.4'
+}
